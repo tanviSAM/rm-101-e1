@@ -1,3 +1,21 @@
 .taskHeader {
   /* Sample */
+  width: 35%;
+  height: 100px;
+  margin-left: 32%;
+  margin-top: 50px;
+  padding: 1%;
+  border: 0px transparent;
+  color: white;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  font-size: 14px;
+  text-align: center;
+  line-height: 0.5rem;
+  background-image: linear-gradient(to bottom right, #68d9a6, #1362ad);
+}
+.taskHeader > p {
+  font-size: 25px;
+  font-weight: bold;
+  margin-top: 20px;
 }

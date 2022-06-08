@@ -1,3 +1,26 @@
 .addTask {
   /* Sample */
 }
+.todoForm {
+  margin-left: 32%;
+  width: 489px;
+  background-color: white;
+}
+.todoForm > input {
+  width: 380px;
+  height: 35px;
+  margin-left: 30px;
+  border: 0px transparent;
+}
+.todoForm > input:focus {
+  outline: none;
+}
+.todoForm > button {
+  width: 40px;
+  height: 35px;
+  font-size: 25px;
+  font-weight: bold;
+  color: #1362ad;
+  border: 0px transparent;
+  background-color: white;
+}
